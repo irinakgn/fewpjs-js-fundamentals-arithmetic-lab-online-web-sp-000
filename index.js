@@ -7,4 +7,3 @@ var mutiply = num1 * num2;
 
 
 var randomNumber = Math.random()
-
