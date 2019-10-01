@@ -1,7 +1,8 @@
 
 // Write your code here
 
-var newID = 1000000000 + oldID
+var num1 = 31;
+var num2 = 2;
 
 
 var ageIsValid = false
