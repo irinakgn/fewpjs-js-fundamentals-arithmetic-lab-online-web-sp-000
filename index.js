@@ -3,6 +3,7 @@
 
 var num1 = 31;
 var num2 = 2;
+num1 * num2;
 
 
 var ageIsValid = false
