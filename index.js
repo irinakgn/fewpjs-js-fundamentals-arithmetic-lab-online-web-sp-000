@@ -6,4 +6,4 @@ var num2 = 2;
 var multiply = num1 * num2;
 
 
-var randomNumber = Math.random()
+var random = Math.random()
