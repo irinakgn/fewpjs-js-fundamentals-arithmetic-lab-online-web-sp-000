@@ -6,4 +6,7 @@ var num2 = 2;
 var multiply = num1 * num2;
 
 
-var random = Math.random()
+var random = Math.random();
+
+
+var max = Math.max (1,2,3,20);
